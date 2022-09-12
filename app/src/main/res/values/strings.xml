@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="lbl_wins">Wins:\u0020</string>
+    <string name="btn_start_game">Start Game</string>
+
+    <string name="lbl_turns_part_1">You have\u0020</string>
+    <string name="lbl_turns_part_2">\u0020turns left</string>
+
+    <string name="txt_enter_your_guess">Guess a number between 1 and 100</string>
+    <string name="btn_guess">Guess</string>
+
+    <string name="msg_enter_a_number">Enter a number</string>
+    <string name="msg_congratulations">You guessed the number. Congratulations.</string>
+    <string name="msg_game_over">Game over</string>
+    <string name="msg_pick_a_lower_number">Pick a lower number</string>
+    <string name="msg_pick_a_higher_number">Pick a higher number</string>
+</resources>
